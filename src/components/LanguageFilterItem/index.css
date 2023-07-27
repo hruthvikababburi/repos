@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.lang-filter-item {
+}
+.lang-filter-item-btn {
+  font-size: 17px;
+  font-family: 'Roboto';
+  color: #1e293b;
+  border-style: none;
+  background-color: transparent;
+  font-weight: 700;
+  cursor: pointer;
+  outline: none;
+}
+
+.active-lang-filter-item-btn {
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: #0284c7;
+  color: #0284c7;
+  background-color: transparent;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
